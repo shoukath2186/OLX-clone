@@ -9,12 +9,7 @@ import { getFirestore } from "firebase/firestore";
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyCC4818KmFvvhKLDUwuzJBtDrFu3iebJU0",
-  authDomain: "new-olx-clone-4fedc.firebaseapp.com",
-  projectId: "new-olx-clone-4fedc",
-  storageBucket: "new-olx-clone-4fedc.appspot.com",
-  messagingSenderId: "812178560448",
-  appId: "1:812178560448:web:e30bb856d29941a4aba425"
+ 
 };
 
 // Initialize Firebase
